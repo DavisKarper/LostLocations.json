@@ -4,7 +4,8 @@
       "name": "Titanic",
       "type": "scheepswrak",
       "status": "gevonden",
-      "description": "Het wrak van het beroemde passagiersschip dat in 1912 zonk.",
+      "image": "https://www.dbsuriname.com/wp-content/uploads/2024/04/Weetje-van-de-dag-Vandaag-in-1912.jpg",
+      "description": "Het wrak van de Titanic is wereldwijd bekend als een van de meest tragische scheepsrampen uit de geschiedenis. Dit immense passagiersschip, dat in 1912 zonk na een aanvaring met een ijsberg, ligt op een diepte van ongeveer 3.800 meter in de Noord-Atlantische Oceaan. De ontdekking van het wrak in 1985 bracht een stroom van expedities en onderzoeken op gang, die ons veel hebben geleerd over de laatste momenten van het 'onzinkbare' schip. Het blijft een krachtig symbool van menselijke ambitie en kwetsbaarheid tegenover de natuur.",
       "coordinates": {
         "latitude": 41.7325,
         "longitude": -49.9469
@@ -14,7 +15,8 @@
       "name": "SS Gairsoppa",
       "type": "scheepswrak",
       "status": "gevonden",
-      "description": "Brits stoomvrachtschip gezonken in 1941, bekend om zijn lading zilver.",
+      "image": "https://images.squarespace-cdn.com/content/v1/5179a19ee4b06ea9dd760b54/1586339079137-6C7R6ELIW0FB5DDA1GF4/Clan+Murdoch+1.jpg?format=1000w",
+      "description": "De SS Gairsoppa was een Brits stoomvrachtschip dat in 1941 tot zinken werd gebracht door een Duitse onderzeeër tijdens de Tweede Wereldoorlog. Het schip stond bekend om zijn kostbare lading: meer dan 200 ton zilver, diep op de zeebodem. Jarenlang bleef het zilver onaangeroerd, totdat het wrak in 2011 werd gelokaliseerd en een aanzienlijk deel van de zilverlading succesvol werd geborgen, wat het een van de grootste geborgen schatvondsten ooit maakte.",
       "coordinates": {
         "latitude": 49.07,
         "longitude": -11.66
@@ -24,7 +26,8 @@
       "name": "San José Galeon",
       "type": "scheepswrak",
       "status": "gevonden",
-      "description": "Spaans galjoen gezonken in 1708, naar verluidt met enorme schatten aan boord.",
+      "image": "https://images.fineartamerica.com/images-medium-large-5/spanish-galleon-san-jose-jose-antonio-penasscience-photo-library.jpg",
+      "description": "De San José Galeon, een Spaans galjoen, zonk in 1708 voor de kust van Colombia tijdens een gevecht met Britse oorlogsschepen. Het schip vervoerde een fabelachtige schat aan goud, zilver en smaragden, afkomstig uit de Zuid-Amerikaanse mijnen, bestemd voor de Spaanse kroon. Decennia van intensieve zoektochten leidden tot de ontdekking van het wrak in 2015, hoewel de precieze locatie en de omvang van de schat nog steeds onderwerp van discussie en juridische strijd zijn.",
       "coordinates": {
         "latitude": 10.1509,
         "longitude": -75.5458
@@ -34,7 +37,8 @@
       "name": "MH370",
       "type": "vliegtuigwrak",
       "status": "gespeculeerd",
-      "description": "De vermiste Boeing 777 van Malaysia Airlines, nog niet gevonden maar zoekgebieden gespeculeerd.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/MAS_plane.jpg/960px-MAS_plane.jpg",
+      "description": "MH370 is de Boeing 777 van Malaysia Airlines die op 8 maart 2014 spoorloos verdween tijdens een vlucht van Kuala Lumpur naar Beijing. Ondanks uitgebreide en kostbare zoekoperaties is het vliegtuigwrak nog niet gevonden. De verdwijning blijft een van de grootste mysteries in de luchtvaartgeschiedenis, met tal van theorieën en speculaties over de oorzaak en de exacte locatie van de crash. De zoektocht naar MH370 gaat, zij het in mindere mate, nog steeds door, in de hoop antwoorden te vinden voor de families van de 239 inzittenden.",
       "coordinates": {
         "latitude": -25.0000,
         "longitude": 95.0000
@@ -44,7 +48,8 @@
       "name": "De verloren stad Atlantis",
       "type": "verloren stad",
       "status": "gespeculeerd",
-      "description": "Legendarische gezonken stad, vaak gesitueerd in de Atlantische Oceaan.",
+      "image": "https://res.cloudinary.com/aenetworks/image/upload/c_fill,ar_2,w_3840,h_1920,g_auto/dpr_auto/f_auto/q_auto:eco/v1/top-6-theories-about-atlantiss-featured-photo?_a=BAVAZGDX0",
+      "description": "Atlantis is een legendarische gezonken stad, voor het eerst beschreven door de Griekse filosoof Plato in zijn werken 'Timaeus' en 'Critias'. Volgens Plato was het een geavanceerde maritieme beschaving die in één dag en nacht door aardbevingen en overstromingen in de oceaan verdween. De exacte locatie van Atlantis blijft een mysterie en is door de eeuwen heen het onderwerp geweest van talloze theorieën en zoektochten, vaak gesitueerd in de Atlantische Oceaan of de Middellandse Zee. Het is nog steeds een van de meest tot de verbeelding sprekende verloren steden ter wereld.",
       "coordinates": {
         "latitude": 30.0000,
         "longitude": -25.0000
@@ -54,17 +59,19 @@
       "name": "Yamashita's goud",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "Naar verluidt door Japanse troepen verborgen schatten op de Filipijnen tijdens WOII.",
+      "image": "https://globalintergold.info/_files/23/fe/15/2d/f4/23fe152df43ae981adafc4a5a3c82f30.jpg",
+      "description": "Yamashita's goud verwijst naar de vermeende oorlogsbuit die Japanse troepen, onder leiding van generaal Tomoyuki Yamashita, zouden hebben verborgen in grotten, tunnels en ondergrondse complexen op de Filipijnen tijdens de Tweede Wereldoorlog. Deze schat zou bestaan uit enorme hoeveelheden goud, juwelen en andere kostbaarheden, geroofd uit Zuidoost-Aziatische landen. Hoewel er in de loop der jaren vele zoektochten en opgravingen zijn geweest, is de bulk van Yamashita's goud nog steeds niet gevonden, en blijft het een van de meest begeerde verloren schatten.",
       "coordinates": {
         "latitude": 14.5995,
         "longitude": 120.9842
       }
     },
     {
-      "name": "Het Amber Room",
+      "name": "De Amberzaal",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "Een kamer versierd met amberpanelen, gestolen tijdens WOII en sindsdien vermist.",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/ZFWgIBY9MiY5YjcCvNbAsZerS6I=/1072x720/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/79/23/792317f5-018d-404c-b156-26360f6fa0f6/andrey_zeest_-_amber_room_2_autochrome.jpg",
+      "description": "De Amberzaal was een weelderige kamer in het Catharinapaleis nabij Sint-Petersburg, Rusland, volledig versierd met barnsteenpanelen, goudfolie en spiegels. Oorspronkelijk gebouwd voor Frederik I van Pruisen, werd het later een geschenk aan Peter de Grote. Tijdens de Tweede Wereldoorlog werd de zaal door de nazi's ontmanteld en naar Königsberg (nu Kaliningrad) gebracht, waarna het spoorloos verdween in de chaos van de oorlog. Ondanks talloze zoektochten en theorieën, is de Amberzaal tot op de dag van vandaag vermist en blijft het een van de grootste onopgeloste kunstroven van de 20e eeuw.",
       "coordinates": {
         "latitude": 54.7176,
         "longitude": 20.5078
@@ -74,7 +81,8 @@
       "name": "Flor de la Mar",
       "type": "scheepswrak",
       "status": "gespeculeerd",
-      "description": "Portugees galjoen gezonken in 1511, mogelijk met de grootste schat aan juwelen.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Frol_de_la_mar_in_roteiro_de_malaca.jpeg",
+      "description": "De Flor de la Mar was een Portugees galjoen dat in 1511 zonk voor de kust van Sumatra, na een succesvolle plundering van Malakka. Het schip stond bekend om zijn immense lading aan goud, zilver, juwelen en andere schatten, afkomstig uit de veroverde stad. De ondergang van de Flor de la Mar wordt beschouwd als een van de grootste schatverliezen in de maritieme geschiedenis. Hoewel er door de jaren heen verschillende zoektochten zijn ondernomen, is het wrak en zijn kostbare lading nog altijd niet gevonden, waardoor het een van de meest legendarische verloren schatten van Azië blijft.",
       "coordinates": {
         "latitude": 4.5000,
         "longitude": 99.0000
@@ -84,7 +92,8 @@
       "name": "HMS Endeavour (Australië)",
       "type": "scheepswrak",
       "status": "gevonden",
-      "description": "Het schip van James Cook, waarvan de locatie van het wrak voor de kust van Rhode Island (VS) is bevestigd.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/HMS_Endeavour_off_the_coast_of_New_Holland%2C_by_Samuel_Atkins_c.1794.jpg",
+      "description": "De HMS Endeavour is het beroemde onderzoeksschip van kapitein James Cook, waarmee hij in de late 18e eeuw de Grote Oceaan verkende en de oostkust van Australië in kaart bracht. Na zijn roemrijke reis werd het schip in 1778 door de Britten afgezonken als blokkadeschip in de haven van Newport, Rhode Island, VS. Hoewel er lange tijd onenigheid bestond over de exacte locatie, is het wrak in 2022 definitief geïdentificeerd door maritieme archeologen. Deze ontdekking is van onschatbare historische waarde voor zowel het Verenigd Koninkrijk, Australië als de Verenigde Staten.",
       "coordinates": {
         "latitude": 41.5649,
         "longitude": -71.3732
@@ -94,7 +103,8 @@
       "name": "De verloren goudmijn van de Dutchman",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "Legendarische goudmijn in de Superstition Mountains, Arizona, VS.",
+      "image": "https://tiogatours.nl/dynamic/img/amerika/arizona/lost-dutchman-sp-superstition-mountains.6.b958.jpg",
+      "description": "De verloren goudmijn van de Dutchman, ook bekend als de Lost Dutchman's Gold Mine, is een legendarische en ongrijpbare goudmijn die zich naar verluidt bevindt in de Superstition Mountains in Arizona, VS. De legende vertelt over een Duitse immigrant, Jacob Waltz, die in de 19e eeuw de mijn zou hebben ontdekt en er een enorme hoeveelheid goud uit haalde. Ondanks talloze pogingen van avonturiers en schatzoekers om de mijn te vinden, is de exacte locatie tot op de dag van vandaag een mysterie gebleven, en veel zoekers hebben hun zoektocht met hun leven moeten bekopen.",
       "coordinates": {
         "latitude": 33.4839,
         "longitude": -111.3931
@@ -104,7 +114,8 @@
       "name": "Bismarck",
       "type": "scheepswrak",
       "status": "gevonden",
-      "description": "Duits slagschip gezonken in 1941.",
+      "image": "https://i.pinimg.com/564x/c7/83/01/c78301df09645b28f0620849053c32b2.jpg",
+      "description": "De Bismarck was een van de grootste en krachtigste slagschepen van de Duitse Kriegsmarine tijdens de Tweede Wereldoorlog. Het schip werd in mei 1941, na een legendarische jacht door de Britse vloot, tot zinken gebracht in de Noord-Atlantische Oceaan. Het wrak werd in 1989 op een diepte van ongeveer 4.791 meter ontdekt door Robert Ballard, dezelfde oceanograaf die ook de Titanic vond. De Bismarck ligt op zijn kiel, relatief intact, en is een stille getuige van de intense zeeslagen van de oorlog en de technologische vooruitgang van die tijd.",
       "coordinates": {
         "latitude": 48.1000,
         "longitude": -16.1200
@@ -114,7 +125,8 @@
       "name": "USS Indianapolis",
       "type": "scheepswrak",
       "status": "gevonden",
-      "description": "Amerikaanse kruiser gezonken in 1945, bekend om de aanval door een Japanse onderzeeër.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/USS_Indianapolis_%28CA-35%29_underway_at_sea_on_27_September_1939_%2880-G-425615%29.jpg/1200px-USS_Indianapolis_%28CA-35%29_underway_at_sea_on_27_September_1939_%2880-G-425615%29.jpg",
+      "description": "De USS Indianapolis was een Amerikaanse zware kruiser die in juli 1945 zonk in de Stille Oceaan, kort na het afleveren van cruciale onderdelen voor de atoombom op Hiroshima. Het schip werd getorpedeerd door een Japanse onderzeeër, wat resulteerde in een van de grootste maritieme tragedies in de geschiedenis van de Amerikaanse marine, waarbij honderden bemanningsleden omkwamen door de aanval en de daaropvolgende dagen in het water. Het wrak werd pas in 2017 op grote diepte gevonden, 72 jaar na de ondergang, en blijft een somber monument voor de moed en het lijden van de bemanning.",
       "coordinates": {
         "latitude": 12.0300,
         "longitude": 134.1400
@@ -124,7 +136,8 @@
       "name": "De Wrakken van Scapa Flow",
       "type": "scheepswrakken",
       "status": "gevonden",
-      "description": "Locatie van de gezonken Duitse vloot uit WOI, populair bij duikers.",
+      "image": "https://warfarehistorynetwork.com/wp-content/uploads/2021/07/W-Aug19-Top-Secret-3-FEATURED-e1627384758600.jpg",
+      "description": "Scapa Flow, gelegen op de Orkney-eilanden in Schotland, is de laatste rustplaats van de Duitse keizerlijke vloot die hier in 1919 tot zinken werd gebracht aan het einde van de Eerste Wereldoorlog. De bemanningen kozen ervoor om hun schepen zelf te laten zinken om te voorkomen dat ze in handen van de geallieerden zouden vallen, een actie die bekend staat als de zelfverzinking van de Duitse hoogzeevloot. Tegenwoordig zijn de wrakken een populaire duiklocatie, waar duikers de indrukwekkende overblijfselen van slagschepen, kruisers en torpedobootjagers kunnen verkennen. Deze site biedt een unieke kijk in een belangrijk moment uit de militaire geschiedenis.",
       "coordinates": {
         "latitude": 58.8950,
         "longitude": -3.0720
@@ -134,7 +147,8 @@
       "name": "El Dorado",
       "type": "verloren stad/schat",
       "status": "gespeculeerd",
-      "description": "Legendarische verloren stad van goud, vaak geassocieerd met Zuid-Amerika.",
+      "image": "https://img.cfmx-cd.net/movieimages/rs/assets/8/c/8ca40476e6718741f0d5a5805cfe0beb/VIS/1920_0_visual_01_jpg.webp",
+      "description": "El Dorado, 'De Gouden Man' of 'De Gouden Stad', is een legendarische verloren stad van goud, vaak geassocieerd met Zuid-Amerikaanse inheemse beschavingen zoals de Muisca. De mythe ontstond bij de Spaanse veroveraars, die geloofden dat er ergens in de Andes of het Amazonegebied een stad vol onvoorstelbare rijkdommen verborgen lag. Hoewel talloze expedities zijn ondernomen in de hoop El Dorado te vinden, is de stad nooit ontdekt, en wordt het tegenwoordig vaker beschouwd als een metafoor voor de onverzadigbare zoektocht naar rijkdom en avontuur.",
       "coordinates": {
         "latitude": 4.5981,
         "longitude": -74.0758
@@ -144,7 +158,8 @@
       "name": "Quedagh Merchant",
       "type": "scheepswrak",
       "status": "gevonden",
-      "description": "Het schip van Captain Kidd, gevonden voor de kust van de Dominicaanse Republiek.",
+      "image": "https://dyingwords.net/wp-content/uploads/2020/12/K18.jpg",
+      "description": "De Quedagh Merchant was het vlaggenschip van de beruchte Schotse piraat Captain William Kidd, dat in de late 17e eeuw volgeladen met geroofde schatten werd achtergelaten en later zonk voor de kust van de Dominicaanse Republiek. Het wrak werd in 2007 ontdekt door een team van onderzoekers, wat een belangrijke maritiem-archeologische vondst was. Hoewel er niet de immense schat werd gevonden die sommigen hadden verwacht, leverde het wel waardevolle historische artefacten op die nieuwe inzichten boden in het leven en de activiteiten van een van de meest tot de verbeelding sprekende figuren uit de piraterijgeschiedenis.",
       "coordinates": {
         "latitude": 19.3300,
         "longitude": -70.4700
@@ -154,7 +169,8 @@
       "name": "Het goud van de nazi-trein",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "Naar verluidt een trein vol nazi-goud en kunstschatten, begraven in Polen.",
+      "image": "https://www.battlefieldtours.nu/wp-content/uploads/2016/08/1405851719289078054.jpg",
+      "description": "De legende van de nazi-goudtrein verwijst naar een vermeende trein vol nazi-goud, juwelen, kunstschatten en wapens die aan het einde van de Tweede Wereldoorlog in een tunnel in Silezië, Polen, zou zijn begraven. Het verhaal kreeg in 2015 wereldwijde aandacht toen twee schatzoekers beweerden de locatie van de trein te hebben ontdekt met behulp van grondpenetrerende radar. Ondanks uitgebreide opgravingen en onderzoek door Poolse autoriteiten is er tot op heden geen bewijs gevonden van het bestaan van deze trein, waardoor het een hardnekkige, onopgeloste schatlegende blijft.",
       "coordinates": {
         "latitude": 50.8400,
         "longitude": 16.2000
@@ -164,7 +180,8 @@
       "name": "De verloren schat van Lima",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "Enorme schat verborgen op Cocos Island door piraten.",
+      "image": "https://www.ancient-origins.net/sites/default/files/field/image/search.jpg",
+      "description": "De verloren schat van Lima is een legendarische collectie van goud, zilver, juwelen en religieuze artefacten die in 1820 uit Lima, Peru, werd gesmokkeld om te voorkomen dat het in handen viel van opstandige troepen. De schat, naar verluidt van onschatbare waarde, werd toevertrouwd aan kapitein William Thompson, die echter besloot ermee vandoor te gaan en deze te begraven op Cocos Island, een afgelegen eiland in de Stille Oceaan. Ondanks talloze zoekexpedities door de jaren heen, is de schat van Lima nog steeds niet gevonden, en blijft het een van de meest gewilde piratenschatten ter wereld.",
       "coordinates": {
         "latitude": 5.5320,
         "longitude": -87.0600
@@ -174,7 +191,8 @@
       "name": "De verloren goudmijnen van de Inca's",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "Goudmijnen van het Inca-rijk, waarvan de locatie verloren is gegaan na de Spaanse verovering.",
+      "image": "https://www.lookandlearn.com/history-images/preview/A/A001/A001312.jpg",
+      "description": "De verloren goudmijnen van de Inca's verwijzen naar de rijke goudmijnen van het Inca-rijk in Zuid-Amerika, waarvan de exacte locaties na de Spaanse verovering in de 16e eeuw verloren zouden zijn gegaan. Volgens legendes verstopten de Inca's hun waardevolle mijnen en grote hoeveelheden goud om te voorkomen dat deze in handen van de Spanjaarden zouden vallen. Hoewel de Spanjaarden grote hoeveelheden goud en zilver roofden, wordt aangenomen dat een aanzienlijk deel van de Inca-rijkdom nog steeds verborgen ligt, diep in de Andes, wachtend om ontdekt te worden.",
       "coordinates": {
         "latitude": -13.1633,
         "longitude": -72.5456
@@ -184,7 +202,8 @@
       "name": "SS Arctic",
       "type": "scheepswrak",
       "status": "gevonden",
-      "description": "Amerikaans passagiersschip dat zonk in 1854 na een botsing.",
+      "image": "https://rareamericana.cdn.bibliopolis.com/pictures/3726672.jpg?auto=webp&v=1706666282",
+      "description": "De SS Arctic was een Amerikaans passagiersschip dat in september 1854 zonk in de Atlantische Oceaan na een botsing met een Frans stoomschip, de Vesta. De ramp leidde tot het verlies van meer dan 300 levens, waaronder bijna alle vrouwen en kinderen aan boord, en veroorzaakte grote controverse vanwege het gebrek aan reddingsboten en de chaotische evacuatie. Het wrak van de SS Arctic is later gevonden, en hoewel het geen goudschat van legendarische proporties bevatte, blijft het een belangrijk stuk maritieme geschiedenis en een herinnering aan de vroege dagen van de trans-Atlantische scheepvaart.",
       "coordinates": {
         "latitude": 46.5000,
         "longitude": -52.0000
@@ -194,7 +213,8 @@
       "name": "Het goud van de SS Central America",
       "type": "scheepswrak/schat",
       "status": "gevonden",
-      "description": "Schip gezonken in 1857 met een grote lading goud uit de Californische goudkoorts.",
+      "image": "https://numa.net/wp-content/uploads/2015/01/SSCentralAmerica.jpg",
+      "description": "De SS Central America, ook wel bekend als het 'Schip van Goud', was een stoomboot die in september 1857 zonk tijdens een orkaan voor de kust van South Carolina. Het schip vervoerde een enorme lading goud uit de Californische goudkoorts, waaronder tonnen gouden munten en baren. De ondergang van de SS Central America veroorzaakte paniek op de Amerikaanse financiële markten en droeg bij aan de paniek van 1857. Het wrak werd in de jaren 1980 ontdekt, en sindsdien is een aanzienlijk deel van de kostbare lading geborgen, waardoor het een van de rijkste schatvondsten in de geschiedenis is.",
       "coordinates": {
         "latitude": 31.5600,
         "longitude": -77.0000
@@ -204,7 +224,8 @@
       "name": "Het graf van Dzjengis Khan",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "De laatste rustplaats van de Mongoolse leider, waarvan de exacte locatie onbekend is.",
+      "image": "https://multimedia.scmp.com/magazines/post-magazine/article/genghis-khan/images/tomb.jpg",
+      "description": "Het graf van Dzjengis Khan, de legendarische stichter van het Mongoolse Rijk, is een van de meest begeerde en onontdekte archeologische vindplaatsen ter wereld. Volgens de Mongoolse traditie wilde Dzjengis Khan dat zijn graf geheim zou blijven, en de locatie werd zorgvuldig verborgen door zijn volgelingen, die zelfs de arbeiders die aan het graf hadden gewerkt, doodden. Er zijn talloze theorieën over de exacte locatie, variërend van de Khentii-bergen in Mongolië tot delen van China. Ondanks moderne zoekmethoden, blijft de laatste rustplaats van de grote Khan tot op de dag van vandaag een onopgelost mysterie, en wordt het beschermd door oude taboes en geloofssystemen.",
       "coordinates": {
         "latitude": 48.0000,
         "longitude": 107.0000
@@ -214,7 +235,8 @@
       "name": "De stad Paititi (El Paititi)",
       "type": "verloren stad",
       "status": "gespeculeerd",
-      "description": "Een legendarische verloren Inca-stad in de oerwouden van Zuidoost-Peru, vol schatten.",
+      "image": "https://imageio.forbes.com/blogs-images/jimdobson/files/2016/02/PAITITI11.jpg?format=jpg&height=600&width=1200&fit=bounds",
+      "description": "Paititi, ook bekend als El Paititi of de verloren stad van de Inca's, is een legendarische Inca-stad vol schatten die zich diep in de ontoegankelijke oerwouden van Zuidoost-Peru zou bevinden. Volgens de overlevering vluchtten de Inca's na de Spaanse verovering met hun laatste goud en zilver naar deze afgelegen plek om het uit handen van de conquistadores te houden. Talrijke expedities zijn door de eeuwen heen georganiseerd om Paititi te vinden, maar de dichte jungle en verraderlijke terreinen hebben de stad tot op heden verborgen gehouden, waardoor het een van de laatste grote onontdekte geheimen van de Inca-beschaving blijft.",
       "coordinates": {
         "latitude": -13.0000,
         "longitude": -71.5000
@@ -224,7 +246,8 @@
       "name": "Het verloren goud van King John",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "Schat verloren in The Wash (Engeland) in 1216, toen de koning vast kwam te zitten in het getij.",
+      "image": "https://archaeologymag.com/wp-content/uploads/king-johns-lost-treasure-1.jpg",
+      "description": "De verloren schat van King John verwijst naar de legendarische rijkdommen die koning Jan zonder Land van Engeland in 1216 zou hebben verloren. Tijdens een tocht door The Wash, een estuarium aan de oostkust van Engeland, raakte zijn bagagetrein vast in het verraderlijke getij en het zand, waardoor een groot deel van zijn kroonjuwelen en kostbaarheden verloren ging. Ondanks eeuwen van geruchten en zoektochten, is de exacte locatie van deze schat nooit definitief vastgesteld. De zoektocht naar het verloren goud van King John blijft een blijvende fascinatie voor schatzoekers en historici.",
       "coordinates": {
         "latitude": 52.8900,
         "longitude": 0.3500
@@ -234,7 +257,8 @@
       "name": "De HMS Victory (1744)",
       "type": "scheepswrak",
       "status": "gevonden",
-      "description": "Een Brits oorlogsschip dat zonk in 1744, gevonden in 2008 met een aanzienlijke lading munten.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/HMS_Victory_Last_Voyage_1744.jpg/993px-HMS_Victory_Last_Voyage_1744.jpg",
+      "description": "De HMS Victory, een Brits eersteklas oorlogsschip en het grootste schip ter wereld in zijn tijd, zonk in oktober 1744 tijdens een zware storm in het Kanaal. Meer dan 1.100 bemanningsleden, waaronder admiraal Sir John Balchen, kwamen om. Het wrak bleef meer dan 260 jaar onontdekt op de zeebodem liggen totdat het in 2008 werd gelokaliseerd door Odyssey Marine Exploration. De vondst was opmerkelijk vanwege de aanzienlijke lading aan gouden munten die aan boord was, wat leidde tot een debat over eigendomsrechten en behoud van deze belangrijke maritieme archeologische site.",
       "coordinates": {
         "latitude": 49.6960,
         "longitude": -4.0150
@@ -244,7 +268,8 @@
       "name": "Port Royal",
       "type": "verloren stad",
       "status": "gevonden",
-      "description": "Een stad in Jamaica die in 1692 zonk na een aardbeving en tsunami, bekend als piratenbolwerk.",
+      "image": "https://jamaicaportroyal.com/images/portroyal-1690-post-shoreline2.jpg",
+      "description": "Port Royal, gelegen op Jamaica, was in de 17e eeuw een berucht piratenbolwerk en de 'rijkste en meest zondige stad ter wereld'. De stad was een belangrijke handelspost in het Caribisch gebied, vol met zeerovers, kooplieden en hun rijkdommen. Op 7 juni 1692 werd Port Royal echter getroffen door een verwoestende aardbeving en tsunami, waardoor een groot deel van de stad in zee verdween. Tegenwoordig is Port Royal een belangrijke archeologische onderwaterlocatie, waar duikers de overblijfselen van de gezonken stad kunnen verkennen, die een uniek inzicht bieden in het leven in de 17e eeuw.",
       "coordinates": {
         "latitude": 17.9360,
         "longitude": -76.8370
@@ -254,7 +279,8 @@
       "name": "De Schat van het Huis van Wittelsbach",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "Juwelen en artefacten van het voormalige Duitse koningshuis, deels gestolen tijdens WOII en vermist.",
+      "image": "https://jbpress.ismcdn.jp/mwimgs/e/6/-/img_e636ef9265b0e38accbbd7790e82a0a0944709.jpg",
+      "description": "De Schat van het Huis van Wittelsbach verwijst naar een verzameling kostbare juwelen, kunstvoorwerpen en familie-erfstukken van het voormalige koningshuis van Beieren, de Wittelsbachers. Hoewel een groot deel van de schat in de loop der eeuwen in musea en privécollecties terechtkwam, wordt aangenomen dat aanzienlijke delen ervan, waaronder historische diamanten en edelstenen, tijdens de chaos van de Tweede Wereldoorlog zijn gestolen of verborgen geraakt en sindsdien vermist zijn. De zoektocht naar deze verloren stukken gaat nog steeds door, en hun herontdekking zou een belangrijke aanvulling zijn op het culturele erfgoed van Europa.",
       "coordinates": {
         "latitude": 48.1351,
         "longitude": 11.5820
@@ -264,7 +290,8 @@
       "name": "Het verloren schip van La Belle",
       "type": "scheepswrak",
       "status": "gevonden",
-      "description": "Een Frans ontdekkingsschip dat in 1686 zonk in de Matagorda Bay, Texas.",
+      "image": "https://stories.tamu.edu/wp-content/uploads/2019/05/image-11.png",
+      "description": "La Belle was een Frans ontdekkingsschip dat in 1686 zonk in de Matagorda Bay, Texas, tijdens de mislukte poging van René-Robert Cavelier, Sieur de La Salle, om een Franse kolonie aan de Golfkust op te richten. Het schip was essentieel voor de bevoorrading van de expeditie en de ondergang ervan betekende een zware slag voor de kolonisten. Het wrak van La Belle werd in 1995 ontdekt en is sindsdien het onderwerp van een van de meest ambitieuze maritiem-archeologische projecten in Noord-Amerika, waarbij het schip volledig werd opgegraven en geconserveerd. De vondsten bieden een ongekend inzicht in het leven van 17e-eeuwse Franse ontdekkingsreizigers en kolonisten.",
       "coordinates": {
         "latitude": 28.5200,
         "longitude": -96.5300
@@ -274,7 +301,8 @@
       "name": "De Goudschat van de Confederatie",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "Goud dat toebehoorde aan de Confederatie en spoorloos verdween na de Amerikaanse Burgeroorlog.",
+      "image": "https://cdn.outdoorhub.com/wp-content/uploads/sites/2/2015/05/outdoorhub-treasure-hunters-lake-michigan-shipwreck-may-lead-to-lost-confederate-gold-2015-05-28_15-36-07.jpg",
+      "description": "De Goudschat van de Confederatie verwijst naar de aanzienlijke hoeveelheden goud en zilver die toebehoorden aan de Confederale Staten van Amerika tijdens de Amerikaanse Burgeroorlog. Toen de Confederatie aan het einde van de oorlog in 1865 viel, verdween een deel van deze schatkist spoorloos. Er bestaan talloze theorieën over de verblijfplaats van dit goud, variërend van begraven caches in het Zuiden tot gezonken schepen in rivieren of meren. Ondanks herhaalde zoektochten en speculaties is de Goudschat van de Confederatie nooit volledig teruggevonden, wat het een blijvend mysterie maakt in de Amerikaanse geschiedenis.",
       "coordinates": {
         "latitude": 37.0000,
         "longitude": -89.0000
@@ -284,7 +312,8 @@
       "name": "De SS Islander",
       "type": "scheepswrak/schat",
       "status": "gevonden",
-      "description": "Schip dat zonk in 1901 voor de kust van Alaska, met een grote lading goud.",
+      "image": "https://coastview.org/wp-content/uploads/2021/07/SS-Islander-Web1.jpg",
+      "description": "De SS Islander was een passagiers- en vrachtschip dat in augustus 1901 zonk voor de kust van Alaska na een aanvaring met een ijsberg. Het schip stond bekend om zijn passagiers die terugkeerden van de Klondike-goudkoorts en vervoerde een aanzienlijke lading goud, naar verluidt meer dan 2,5 ton, wat het een van de rijkste gezonken schatten maakte. Het wrak werd in de jaren 1930 gelokaliseerd en sindsdien zijn er verschillende bergingsoperaties uitgevoerd, waarbij grote delen van de goudlading zijn teruggevonden. Toch wordt aangenomen dat nog steeds een aanzienlijk deel van de schat op de zeebodem ligt, waardoor de SS Islander een blijvende aantrekkingskracht heeft op schatzoekers.",
       "coordinates": {
         "latitude": 58.2600,
         "longitude": -134.7800
@@ -294,7 +323,8 @@
       "name": "De verloren stad Z",
       "type": "verloren stad",
       "status": "gespeculeerd",
-      "description": "Een mythische oude stad in het Amazone regenwoud van Brazilië, gezocht door ontdekkingsreizigers.",
+      "image": "https://www.ancient-origins.net/sites/default/files/styles/article_image/public/field/image/Lost-City-of-Z.jpg?itok=EYPokOtt",
+      "description": "De verloren stad Z is een mythische oude stad die zich diep in het Amazone regenwoud van Brazilië zou bevinden, gezocht door ontdekkingsreizigers in de vroege 20e eeuw. Het meest bekend is de Britse ontdekkingsreiziger Percy Fawcett, die in 1925 verdween tijdens zijn zoektocht naar Z, ervan overtuigd dat een grote, complexe beschaving ooit in dit afgelegen gebied had bestaan. Hoewel de specifieke stad 'Z' nooit is gevonden, hebben recente archeologische ontdekkingen in het Amazonegebied, zoals oude steden en wegen, gesuggereerd dat er inderdaad complexe precolumbiaanse samenlevingen waren in de regio. Het blijft een fascinerend symbool van de onontdekte wildernis en de verborgen geschiedenis van Zuid-Amerika.",
       "coordinates": {
         "latitude": -7.5000,
         "longitude": -55.0000
@@ -304,7 +334,8 @@
       "name": "De Schat van de Roemeense Bank",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "Goudreserves van de Roemeense Nationale Bank, die tijdens WOI naar Rusland werden gestuurd en nooit zijn teruggekeerd.",
+      "image": "https://www.politico.eu/cdn-cgi/image/width=1160,height=870,quality=80,onerror=redirect,format=auto/wp-content/uploads/2024/02/29/feature_picture_politico_2-scaled.jpg",
+      "description": "De Schat van de Roemeense Bank verwijst naar de goudreserves en andere waardevolle bezittingen van de Roemeense Nationale Bank, die tijdens de Eerste Wereldoorlog voor de veiligheid naar Rusland werden gestuurd. In 1916 en 1917 werden grote hoeveelheden goud, juwelen en kunstwerken per trein naar Moskou geëvacueerd, onder de belofte van bewaring en teruggave. Echter, na de Oktoberrevolutie en de daaropvolgende politieke omwentelingen, zijn deze schatten nooit volledig teruggekeerd naar Roemenië. De exacte omvang van de verloren schat en de huidige verblijfplaats ervan blijven onderwerp van intensieve politieke en historische discussies tussen Roemenië en Rusland.",
       "coordinates": {
         "latitude": 45.9432,
         "longitude": 24.9668
@@ -314,7 +345,8 @@
       "name": "P-47 Thunderbolt Wrakken (Nieuw-Guinea)",
       "type": "vliegtuigwrakken",
       "status": "gevonden",
-      "description": "Vliegtuigwrakken uit WOII, bekend als 'Swamp Ghost', gedeeltelijk geborgen uit de moerassen.",
+      "image": "https://divernet.com/wp-content/uploads/2024/10/IMAGE-1-2-1.jpg",
+      "description": "De P-47 Thunderbolt-wrakken in Nieuw-Guinea verwijzen naar de talloze vliegtuigwrakken van de Amerikaanse P-47 Thunderbolt jachtbommenwerper die tijdens de Tweede Wereldoorlog zijn neergestort in de dichte jungles en moerassen van Nieuw-Guinea. Deze vliegtuigen speelden een cruciale rol in de gevechten tegen de Japanse troepen in de Stille Oceaan. Veel van deze wrakken zijn door de jaren heen ontdekt, soms relatief intact gebleven door de isolatie van de locaties. Een van de meest beroemde is de 'Swamp Ghost', een bijna perfect bewaard gebleven B-17 bommenwerper, die gedeeltelijk is geborgen en tentoongesteld. Deze wrakken zijn niet alleen historische artefacten, maar ook stille getuigen van de intensiteit van de luchtoorlog in de Pacifische regio.",
       "coordinates": {
         "latitude": -7.0000,
         "longitude": 145.0000
@@ -324,17 +356,19 @@
       "name": "De Schat van het Huis Habsburg",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "Verloren juwelen en kunstvoorwerpen van de Habsburgse dynastie, mogelijk verspreid of verborgen.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Vitrine_XIII_Schatzkammer_Wien_1895.jpg/250px-Vitrine_XIII_Schatzkammer_Wien_1895.jpg",
+      "description": "De Schat van het Huis Habsburg omvat de onschatbare collectie juwelen, kronen, insignes en kunstvoorwerpen die door de eeuwen heen zijn verzameld door de machtige Habsburgse dynastie, een van de meest invloedrijke koningshuizen van Europa. Hoewel veel van deze schatten veilig zijn opgeborgen in musea zoals de Hofburg in Wenen, bestaan er legendes over verloren of verborgen delen van de Habsburgse schat. Dit kunnen stukken zijn die tijdens oorlogen, revoluties of perioden van politieke instabiliteit zijn verspreid, gestolen of discreet verborgen. De zoektocht naar deze onvindbare artefacten blijft een fascinerende drijfveer voor historici en schatzoekers, in de hoop meer inzicht te krijgen in de glorieuze geschiedenis van dit keizerlijke huis.",
       "coordinates": {
         "latitude": 48.2082,
         "longitude": 16.3738
       }
     },
     {
-      "name": "De Zinken Scheepsvloot van de Golf van Tonkin",
+      "name": "De Gezonken Scheepsvloot van de Golf van Tonkin",
       "type": "scheepswrakken",
       "status": "gevonden",
-      "description": "Diverse scheepswrakken, waaronder oorlogsschepen en vrachtschepen uit verschillende conflicten.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/USS_Maddox_%28DD-731%29_underway_at_sea%2C_circa_the_early_1960s_%28NH_97900%29.jpg/1280px-USS_Maddox_%28DD-731%29_underway_at_sea%2C_circa_the_early_1960s_%28NH_97900%29.jpg",
+      "description": "De Golf van Tonkin, gelegen voor de kust van Vietnam en China, is de rustplaats van talrijke scheepswrakken, variërend van oude handelsschepen tot oorlogsschepen uit de moderne geschiedenis. De wateren waren het toneel van belangrijke maritieme conflicten, waaronder de Tonkin-incidenten tijdens de Vietnamoorlog, die de Amerikaanse betrokkenheid bij het conflict verdiepten. Duikers en archeologen hebben diverse wrakken in dit gebied geïdentificeerd, waaronder Japanse schepen uit de Tweede Wereldoorlog en Amerikaanse en Vietnamese vaartuigen uit de Vietnamoorlog. Deze gezonken vloot biedt een uniek onderwatermuseum dat de maritieme en militaire geschiedenis van Zuidoost-Azië belicht.",
       "coordinates": {
         "latitude": 20.0000,
         "longitude": 107.0000
@@ -344,7 +378,8 @@
       "name": "Het IJzeren Kruis Cache",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "Een vermeende begraven schat van Duitse IJzeren Kruizen en andere memorabilia uit WOII.",
+      "image": "https://militair.net/wp-content/uploads/2020/04/ijzeren-kruis-1024x1004.png",
+      "description": "Het IJzeren Kruis Cache is een legende die spreekt van een vermeende begraven schat van Duitse IJzeren Kruizen, medailles en andere memorabilia uit de Tweede Wereldoorlog. Het verhaal suggereert dat Duitse officieren aan het einde van de oorlog grote hoeveelheden van deze onderscheidingen en andere waardevolle items hebben begraven om te voorkomen dat ze in handen van de geallieerden zouden vallen. Hoewel er geen concrete bewijzen zijn voor het bestaan van een dergelijke grootschalige cache, blijft het een populaire mythe onder schatzoekers en verzamelaars van militaire objecten. De exacte locatie, indien deze al bestaat, blijft een goed bewaard geheim, en de zoektocht ernaar is vaak meer een fascinatie voor de geschiedenis dan een realistische hoop op een grote vondst.",
       "coordinates": {
         "latitude": 52.5200,
         "longitude": 13.4050
@@ -354,7 +389,8 @@
       "name": "De verloren goudmijn van Montezuma",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "Een legendarische goudmijn van de Azteken die door Montezuma's volk werd verborgen voor de Spanjaarden.",
+      "image": "https://www.ancient-origins.net/sites/default/files/styles/article_image/public/field/image/Montezuma%20meets%20Cortes%20.jpg?itok=QnNRkwFh",
+      "description": "De verloren goudmijn van Montezuma is een legendarische schat die verbonden is met de laatste Azteekse keizer, Montezuma II. Volgens de overlevering verborgen de Azteken, kort voor de komst van de Spaanse conquistadores onder leiding van Hernán Cortés in 1519, grote hoeveelheden goud en zilver uit hun mijnen om te voorkomen dat deze in vijandelijke handen zouden vallen. Er wordt gezegd dat Montezuma zelf de locatie van een van de rijkste goudmijnen heeft laten verbergen. Ondanks talloze zoektochten door de eeuwen heen, is de exacte locatie van deze legendarische goudmijn nooit gevonden, en blijft het een van de grootste onopgeloste mysteries van de precolumbiaanse geschiedenis.",
       "coordinates": {
         "latitude": 19.4326,
         "longitude": -99.1332
@@ -364,7 +400,8 @@
       "name": "De SS Egypt",
       "type": "scheepswrak/schat",
       "status": "gevonden",
-      "description": "Brits passagiersschip dat zonk in 1922 met een aanzienlijke lading goud en zilver aan boord.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/StateLibQld_1_141467_Egypt_%28ship%29.jpg",
+      "description": "De SS Egypt was een Brits passagiersschip van de Peninsular and Oriental Steam Navigation Company dat in mei 1922 zonk na een botsing met een Frans vrachtschip, de Seine, in dichte mist voor de kust van Bretagne, Frankrijk. Aan boord bevond zich een aanzienlijke lading aan goud- en zilverstaven, edelstenen en munten, met een waarde die destijds al miljoenen ponden bedroeg. De berging van de schat uit de SS Egypt was een opmerkelijke prestatie voor die tijd, waarbij diepzeeduikers gedurende jaren in moeilijke omstandigheden werkten. Hoewel veel van de schat is teruggevonden, blijft een deel ervan nog steeds op de zeebodem, wat de SS Egypt tot een van de meest succesvol geborgen, maar nog steeds deels ongrijpbare, schatwrakken maakt.",
       "coordinates": {
         "latitude": 48.5100,
         "longitude": -5.3000
@@ -374,7 +411,8 @@
       "name": "Het Zwarte Vloot Wrak (Japan)",
       "type": "scheepswrakken",
       "status": "gevonden",
-      "description": "Overblijfselen van de vloot van Kublai Khan die in de 13e eeuw door een tyfoon zonk tijdens een invasiepoging in Japan.",
+      "image": "https://pm1.aminoapps.com/7122/189b8032850097ca10c549777a7f436aab552e9cr1-800-478v2_hq.jpg",
+      "description": "Het Zwarte Vloot Wrak in Japan verwijst naar de overblijfselen van de Mongoolse invasievloten van Kublai Khan die in de 13e eeuw tweemaal probeerden Japan binnen te vallen. Beide invasiepogingen werden verijdeld door krachtige tyfoons, die door de Japanners 'Kamikaze' ('goddelijke wind') werden genoemd. Deze tyfoons vernietigden een groot deel van de Mongoolse vloot, waardoor talloze schepen en duizenden manschappen op de zeebodem terechtkwamen. Archeologen hebben de afgelopen decennia verschillende wrakken van deze Mongoolse vloot ontdekt voor de kust van Japan, wat waardevolle inzichten biedt in de scheepsbouwtechnieken van die tijd en de historische gebeurtenissen die de loop van de Japanse geschiedenis bepaalden.",
       "coordinates": {
         "latitude": 33.5898,
         "longitude": 130.4017
@@ -384,7 +422,8 @@
       "name": "De Schat van de Templiers",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "De legendarische schat van de Tempeliers, die zou zijn verborgen voordat de Orde werd opgeheven.",
+      "image": "https://www.parismarais.com/img/editor/donjon-du_temple1800.jpg",
+      "description": "De Schat van de Tempeliers is een van de meest hardnekkige en tot de verbeelding sprekende legendes over verloren rijkdommen. De Tempeliers, een machtige christelijke militaire orde tijdens de Middeleeuwen, verzamelden enorme rijkdommen tijdens de kruistochten en door donaties in Europa. Toen de orde in 1307 werd opgeheven en vervolgd door koning Filips IV van Frankrijk, wordt aangenomen dat een aanzienlijk deel van hun schatten, waaronder goud, zilver, juwelen en mogelijk zelfs religieuze relikwieën, werd verborgen om in handen van de koning te vermijden. Er zijn talloze theorieën over de locatie van deze schat, variërend van Frankrijk tot Schotland en daarbuiten, maar tot op heden is de legendarische schat van de Tempeliers nooit gevonden.",
       "coordinates": {
         "latitude": 48.8566,
         "longitude": 2.3522
@@ -394,7 +433,8 @@
       "name": "De verloren stad Aztlán",
       "type": "verloren stad",
       "status": "gespeculeerd",
-      "description": "De mythische voorouderlijke thuisland van de Azteken, waarvan de locatie onbekend is.",
+      "image": "https://mru.ink/wp-content/uploads/2023/07/Lost-City-of-Aztlan.jpg",
+      "description": "Aztlán is de mythische voorouderlijke thuisland van de Azteken, van waaruit ze volgens hun legendes hun lange migratie naar de Vallei van Mexico begonnen, uiteindelijk leidend tot de stichting van Tenochtitlan (het huidige Mexico-Stad). De naam 'Aztlán' betekent 'plaats van de zilverreiger' of 'plaats van witheid'. De exacte geografische locatie van Aztlán is onbekend en wordt al eeuwenlang gezocht door historici en archeologen, variërend van gebieden in het zuidwesten van de Verenigde Staten tot de westkust van Mexico. Het blijft een belangrijk symbool van de Azteekse identiteit en hun complexe ontstaansgeschiedenis.",
       "coordinates": {
         "latitude": 26.0000,
         "longitude": -109.0000
@@ -404,7 +444,8 @@
       "name": "Het wrak van de Grosvenor",
       "type": "scheepswrak/schat",
       "status": "gevonden",
-      "description": "Een Brits Oost-Indiëvaarder die in 1782 voor de kust van Zuid-Afrika schipbreuk leed, naar verluidt met goud en edelstenen.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Wreck_of_the_Grosvenor02.jpg",
+      "description": "Het wrak van de Grosvenor is een van de meest tot de verbeelding sprekende maritieme tragedies van de 18e eeuw. De Britse Oost-Indiëvaarder Grosvenor leed in augustus 1782 schipbreuk voor de kust van Pondoland in Zuid-Afrika, tijdens een terugreis van India naar Groot-Brittannië. Naast passagiers, waaronder veel vrouwen en kinderen, vervoerde het schip naar verluidt een immense schat aan goud, zilver, edelstenen en andere kostbaarheden. Veel opvarenden die de schipbreuk overleefden, kwamen om tijdens de lange en barre tocht door onherbergzaam gebied. Het wrak is in de jaren 1980 gelokaliseerd en diverse bergingspogingen zijn ondernomen, maar een aanzienlijk deel van de schat blijft onbereikbaar en voedt de legende van de Grosvenor.",
       "coordinates": {
         "latitude": -31.3700,
         "longitude": 29.8900
@@ -414,7 +455,8 @@
       "name": "De Schat van Fátima",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "Een vermeende schat die verborgen zou zijn in de omgeving van Fátima, Portugal, na de Wonderen van Fátima.",
+      "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/12/90/1e/9f.jpg",
+      "description": "De Schat van Fátima verwijst naar een vermeende schat die verborgen zou zijn in de omgeving van Fátima, Portugal, na de beroemde Mariaverschijningen in 1917, bekend als de Wonderen van Fátima. Hoewel de kern van Fátima een religieuze betekenis heeft, is er door de jaren heen speculatie geweest over materiële schatten die daar mogelijk zijn verborgen, hetzij door pelgrims als offergaven of door lokale bewoners tijdens perioden van onrust. Er zijn echter geen concrete bewijzen die het bestaan van een dergelijke schat bevestigen, en de focus van Fátima blijft primair spiritueel en religieus.",
       "coordinates": {
         "latitude": 39.6166,
         "longitude": -8.6517
@@ -424,17 +466,19 @@
       "name": "De verloren zilvermijnen van de Spanjaarden (VS)",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "Diverse legendarische zilvermijnen in de Amerikaanse Southwest, achtergelaten door Spaanse kolonisten.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Columbus_Taking_Possession.jpg/500px-Columbus_Taking_Possession.jpg",
+      "description": "De verloren zilvermijnen van de Spanjaarden verwijzen naar diverse legendarische zilvermijnen die zich in de Amerikaanse Southwest zouden bevinden en die door Spaanse kolonisten in de 16e tot 18e eeuw zouden zijn geëxploiteerd. Volgens de verhalen zouden deze mijnen, die immense rijkdommen opleverden, na de Mexicaanse Onafhankelijkheidsoorlog of door inheemse opstanden zijn verlaten en hun locatie geheim zijn gehouden. Hoewel er in de loop der eeuwen vele zoektochten en beweringen zijn geweest, is de exacte locatie van deze rijke zilvermijnen nooit onomstotelijk vastgesteld, waardoor ze deel blijven uitmaken van de folklore van het Wilde Westen.",
       "coordinates": {
         "latitude": 34.0000,
         "longitude": -112.0000
       }
     },
     {
-      "name": "De USS Arizona Memorial",
+      "name": "De USS Arizona",
       "type": "scheepswrak",
       "status": "gevonden",
-      "description": "Het gezonken slagschip in Pearl Harbor, Hawaï, een gedenkteken voor de aanval op 7 december 1941.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/USS_Arizona_%28BB-39%29_-_NH_57658.jpg",
+      "description": "De USS Arizona was een Amerikaans slagschip van de United States Navy dat op 7 december 1941 tot zinken werd gebracht tijdens de Japanse aanval op Pearl Harbor, Hawaï. Het schip ontplofte na een directe bominslag en zonk snel, waarbij 1.177 van haar bemanningsleden omkwamen. De USS Arizona ligt nog steeds op de bodem van Pearl Harbor en is een gedenkteken geworden voor de slachtoffers van de aanval en een belangrijke herinnering aan het begin van de Amerikaanse deelname aan de Tweede Wereldoorlog. Het is nu een beschermde historische site en een bedevaartsoord voor velen.",
       "coordinates": {
         "latitude": 21.3650,
         "longitude": -157.9500
@@ -444,7 +488,8 @@
       "name": "Het goud van Napoleon",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "Vermeende goudschat van Napoleon die tijdens zijn terugtrekking uit Rusland is verborgen of verloren gegaan.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/France_1803-04-A_20_Francs.jpg",
+      "description": "Het goud van Napoleon verwijst naar een vermeende goudschat die keizer Napoleon Bonaparte zou hebben verborgen of verloren tijdens zijn desastreuze terugtrekking uit Rusland in 1812. Volgens de legende zou Napoleon een deel van zijn oorlogskas en geroofde schatten hebben meegenomen op zijn terugtocht, om deze vervolgens op een geheime locatie te begraven om te voorkomen dat ze in handen van de oprukkende Russische troepen zouden vallen. Hoewel er door de jaren heen talloze zoektochten zijn geweest in onder andere Wit-Rusland en Rusland, is het bestaan of de locatie van dit goud nooit bewezen. Het blijft een fascinerende anekdote in de geschiedenis van de Napoleontische oorlogen.",
       "coordinates": {
         "latitude": 55.7558,
         "longitude": 37.6173
@@ -454,7 +499,8 @@
       "name": "De verloren stad van Iram van de Zuilen (Ubar)",
       "type": "verloren stad",
       "status": "gevonden",
-      "description": "Een oude verloren stad in het zand van Oman, beschreven in legendes en gevonden met satellietbeelden.",
+      "image": "https://gosalalahtour.com/wp-content/uploads/2023/08/Ubar-Lost-City-.jpg",
+      "description": "Iram van de Zuilen, ook bekend als Ubar, is een legendarische verloren stad in het zand van Oman, beschreven in oude Arabische overleveringen en de Koran als een rijke en machtige stad die plotseling verdween als straf van God. Decennia lang werd Ubar als een mythe beschouwd, totdat archeologen in de vroege jaren 1990, met behulp van satellietbeelden en grondradartechnologie, de locatie van een oude nederzetting in de Rub' al Khali-woestijn (het Lege Kwartier) ontdekten. Deze vondst, gekenmerkt door een oude waterput en een achthoekig fort, wordt nu algemeen beschouwd als de historische 'Iram van de Zuilen' of Ubar, en heeft ons inzicht in de oude handelsroutes en beschavingen van het Arabische schiereiland vergroot.",
       "coordinates": {
         "latitude": 18.2325,
         "longitude": 53.6492
@@ -464,7 +510,8 @@
       "name": "De RMS Laconia",
       "type": "scheepswrak",
       "status": "gevonden",
-      "description": "Brits passagiersschip dat in WOII zonk, bekend van het 'Laconia-incident'.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/RMS_Laconia.jpg",
+      "description": "De RMS Laconia was een Brits passagiersschip dat in september 1942 tijdens de Tweede Wereldoorlog tot zinken werd gebracht door een Duitse onderzeeër (U-156) in de Atlantische Oceaan. Het incident werd berucht als het 'Laconia-incident', omdat de Duitse onderzeeboot, ondanks het risico, een reddingsoperatie op touw zette om de overlevenden, waaronder Britse soldaten, Italiaanse krijgsgevangenen en burgers, te redden. Deze reddingsoperatie werd echter afgebroken na een aanval van een Amerikaanse bommenwerper. Het wrak van de RMS Laconia is later gevonden, en het incident blijft een complex en controversieel hoofdstuk in de geschiedenis van de Tweede Wereldoorlog, dat de ethische dilemma's van oorlogsvoering blootlegt.",
       "coordinates": {
         "latitude": -5.5000,
         "longitude": -9.0000
@@ -474,7 +521,8 @@
       "name": "Het Zilver van Atocha",
       "type": "scheepswrak/schat",
       "status": "gevonden",
-      "description": "Spaans galjoen gezonken in 1622, bekend om de enorme hoeveelheid zilver en edelstenen die is geborgen.",
+      "image": "https://legacy.sedwickcoins.com/articles/atocha_bar/atocha7.jpg",
+      "description": "De Nuestra Señora de Atocha was een Spaans galjoen dat in september 1622 zonk voor de kust van de Florida Keys tijdens een orkaan, samen met andere schepen van de Tierra Firme vloot. Het schip stond bekend om zijn immense lading aan zilver, goud, smaragden en andere kostbaarheden die het van de Nieuwe Wereld naar Spanje vervoerde. Na decennia van zoektocht door de legendarische schatzoeker Mel Fisher en zijn team, werd het wrak van de Atocha in 1985 ontdekt, wat leidde tot de berging van miljarden dollars aan schatten. De vondst van het Zilver van Atocha is een van de grootste en meest spectaculaire schatvondsten in de geschiedenis van onderwaterarcheologie.",
       "coordinates": {
         "latitude": 24.5500,
         "longitude": -82.0000
@@ -484,7 +532,8 @@
       "name": "De Verborgen Schat van de Kelly Gang",
       "type": "schat",
       "status": "gespeculeerd",
-      "description": "Een vermeende schat verborgen door de beruchte Australische bushranger Ned Kelly en zijn bende.",
+      "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.4485%2C$ratio_0.666667%2C$width_631%2C$x_5%2C$y_5/t_crop_custom/q_86%2Cf_auto/5b004f39b26c21ccc64dcb7176e7997ec5edc01b",
+      "description": "De Verborgen Schat van de Kelly Gang verwijst naar de vermeende rijkdommen die de beruchte Australische bushranger Ned Kelly en zijn bende zouden hebben begraven. Ned Kelly was een Australische outlaw, bekend om zijn ontsnappingen aan de wet en zijn strijd tegen de autoriteiten in de late 19e eeuw. Naast hun overvallen op banken en goudtransporten, wordt aangenomen dat de bende een deel van hun buit op geheime locaties heeft verborgen in de ruige outback van Victoria. Ondanks talloze pogingen van schatzoekers, is er geen substantiële schat van de Kelly Gang definitief gevonden, waardoor het een blijvend onderdeel is van de Australische folklore en een symbool van rebellie.",
       "coordinates": {
         "latitude": -36.5000,
         "longitude": 145.0000
@@ -494,7 +543,8 @@
       "name": "De verloren stad Thinis",
       "type": "verloren stad",
       "status": "gespeculeerd",
-      "description": "Een van de vroegste hoofdsteden van het oude Egypte, waarvan de exacte locatie nog onbekend is.",
+      "image": "https://www.ancient-origins.net/sites/default/files/field/image/Lost-City-of-Thinis_0.jpg",
+      "description": "Thinis (of Tjenu) was een van de vroegste hoofdsteden van het oude Egypte en diende als residentie van de eerste twee dynastieën van het Egyptische koninkrijk, rond 3100 tot 2686 v.Chr. Hoewel de stad van groot historisch belang is, is de exacte locatie ervan tot op de dag van vandaag onbekend. Egyptologen vermoeden dat het zich ergens in de buurt van de moderne stad Abydos bevindt, in het huidige Sohag Gouvernement. Ondanks uitgebreid archeologisch onderzoek zijn er nog geen definitieve bewijzen gevonden die de locatie van Thinis onomstotelijk vaststellen, wat het een van de grootste onontdekte steden van het oude Egypte maakt.",
       "coordinates": {
         "latitude": 26.5000,
         "longitude": 31.8000
