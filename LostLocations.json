@@ -1,0 +1,504 @@
+{
+  "locations": [
+    {
+      "name": "Titanic",
+      "type": "scheepswrak",
+      "status": "gevonden",
+      "description": "Het wrak van het beroemde passagiersschip dat in 1912 zonk.",
+      "coordinates": {
+        "latitude": 41.7325,
+        "longitude": -49.9469
+      }
+    },
+    {
+      "name": "SS Gairsoppa",
+      "type": "scheepswrak",
+      "status": "gevonden",
+      "description": "Brits stoomvrachtschip gezonken in 1941, bekend om zijn lading zilver.",
+      "coordinates": {
+        "latitude": 49.07,
+        "longitude": -11.66
+      }
+    },
+    {
+      "name": "San José Galeon",
+      "type": "scheepswrak",
+      "status": "gevonden",
+      "description": "Spaans galjoen gezonken in 1708, naar verluidt met enorme schatten aan boord.",
+      "coordinates": {
+        "latitude": 10.1509,
+        "longitude": -75.5458
+      }
+    },
+    {
+      "name": "MH370",
+      "type": "vliegtuigwrak",
+      "status": "gespeculeerd",
+      "description": "De vermiste Boeing 777 van Malaysia Airlines, nog niet gevonden maar zoekgebieden gespeculeerd.",
+      "coordinates": {
+        "latitude": -25.0000,
+        "longitude": 95.0000
+      }
+    },
+    {
+      "name": "De verloren stad Atlantis",
+      "type": "verloren stad",
+      "status": "gespeculeerd",
+      "description": "Legendarische gezonken stad, vaak gesitueerd in de Atlantische Oceaan.",
+      "coordinates": {
+        "latitude": 30.0000,
+        "longitude": -25.0000
+      }
+    },
+    {
+      "name": "Yamashita's goud",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "Naar verluidt door Japanse troepen verborgen schatten op de Filipijnen tijdens WOII.",
+      "coordinates": {
+        "latitude": 14.5995,
+        "longitude": 120.9842
+      }
+    },
+    {
+      "name": "Het Amber Room",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "Een kamer versierd met amberpanelen, gestolen tijdens WOII en sindsdien vermist.",
+      "coordinates": {
+        "latitude": 54.7176,
+        "longitude": 20.5078
+      }
+    },
+    {
+      "name": "Flor de la Mar",
+      "type": "scheepswrak",
+      "status": "gespeculeerd",
+      "description": "Portugees galjoen gezonken in 1511, mogelijk met de grootste schat aan juwelen.",
+      "coordinates": {
+        "latitude": 4.5000,
+        "longitude": 99.0000
+      }
+    },
+    {
+      "name": "HMS Endeavour (Australië)",
+      "type": "scheepswrak",
+      "status": "gevonden",
+      "description": "Het schip van James Cook, waarvan de locatie van het wrak voor de kust van Rhode Island (VS) is bevestigd.",
+      "coordinates": {
+        "latitude": 41.5649,
+        "longitude": -71.3732
+      }
+    },
+    {
+      "name": "De verloren goudmijn van de Dutchman",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "Legendarische goudmijn in de Superstition Mountains, Arizona, VS.",
+      "coordinates": {
+        "latitude": 33.4839,
+        "longitude": -111.3931
+      }
+    },
+    {
+      "name": "Bismarck",
+      "type": "scheepswrak",
+      "status": "gevonden",
+      "description": "Duits slagschip gezonken in 1941.",
+      "coordinates": {
+        "latitude": 48.1000,
+        "longitude": -16.1200
+      }
+    },
+    {
+      "name": "USS Indianapolis",
+      "type": "scheepswrak",
+      "status": "gevonden",
+      "description": "Amerikaanse kruiser gezonken in 1945, bekend om de aanval door een Japanse onderzeeër.",
+      "coordinates": {
+        "latitude": 12.0300,
+        "longitude": 134.1400
+      }
+    },
+    {
+      "name": "De Wrakken van Scapa Flow",
+      "type": "scheepswrakken",
+      "status": "gevonden",
+      "description": "Locatie van de gezonken Duitse vloot uit WOI, populair bij duikers.",
+      "coordinates": {
+        "latitude": 58.8950,
+        "longitude": -3.0720
+      }
+    },
+    {
+      "name": "El Dorado",
+      "type": "verloren stad/schat",
+      "status": "gespeculeerd",
+      "description": "Legendarische verloren stad van goud, vaak geassocieerd met Zuid-Amerika.",
+      "coordinates": {
+        "latitude": 4.5981,
+        "longitude": -74.0758
+      }
+    },
+    {
+      "name": "Quedagh Merchant",
+      "type": "scheepswrak",
+      "status": "gevonden",
+      "description": "Het schip van Captain Kidd, gevonden voor de kust van de Dominicaanse Republiek.",
+      "coordinates": {
+        "latitude": 19.3300,
+        "longitude": -70.4700
+      }
+    },
+    {
+      "name": "Het goud van de nazi-trein",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "Naar verluidt een trein vol nazi-goud en kunstschatten, begraven in Polen.",
+      "coordinates": {
+        "latitude": 50.8400,
+        "longitude": 16.2000
+      }
+    },
+    {
+      "name": "De verloren schat van Lima",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "Enorme schat verborgen op Cocos Island door piraten.",
+      "coordinates": {
+        "latitude": 5.5320,
+        "longitude": -87.0600
+      }
+    },
+    {
+      "name": "De verloren goudmijnen van de Inca's",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "Goudmijnen van het Inca-rijk, waarvan de locatie verloren is gegaan na de Spaanse verovering.",
+      "coordinates": {
+        "latitude": -13.1633,
+        "longitude": -72.5456
+      }
+    },
+    {
+      "name": "SS Arctic",
+      "type": "scheepswrak",
+      "status": "gevonden",
+      "description": "Amerikaans passagiersschip dat zonk in 1854 na een botsing.",
+      "coordinates": {
+        "latitude": 46.5000,
+        "longitude": -52.0000
+      }
+    },
+    {
+      "name": "Het goud van de SS Central America",
+      "type": "scheepswrak/schat",
+      "status": "gevonden",
+      "description": "Schip gezonken in 1857 met een grote lading goud uit de Californische goudkoorts.",
+      "coordinates": {
+        "latitude": 31.5600,
+        "longitude": -77.0000
+      }
+    },
+    {
+      "name": "Het graf van Dzjengis Khan",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "De laatste rustplaats van de Mongoolse leider, waarvan de exacte locatie onbekend is.",
+      "coordinates": {
+        "latitude": 48.0000,
+        "longitude": 107.0000
+      }
+    },
+    {
+      "name": "De stad Paititi (El Paititi)",
+      "type": "verloren stad",
+      "status": "gespeculeerd",
+      "description": "Een legendarische verloren Inca-stad in de oerwouden van Zuidoost-Peru, vol schatten.",
+      "coordinates": {
+        "latitude": -13.0000,
+        "longitude": -71.5000
+      }
+    },
+    {
+      "name": "Het verloren goud van King John",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "Schat verloren in The Wash (Engeland) in 1216, toen de koning vast kwam te zitten in het getij.",
+      "coordinates": {
+        "latitude": 52.8900,
+        "longitude": 0.3500
+      }
+    },
+    {
+      "name": "De HMS Victory (1744)",
+      "type": "scheepswrak",
+      "status": "gevonden",
+      "description": "Een Brits oorlogsschip dat zonk in 1744, gevonden in 2008 met een aanzienlijke lading munten.",
+      "coordinates": {
+        "latitude": 49.6960,
+        "longitude": -4.0150
+      }
+    },
+    {
+      "name": "Port Royal",
+      "type": "verloren stad",
+      "status": "gevonden",
+      "description": "Een stad in Jamaica die in 1692 zonk na een aardbeving en tsunami, bekend als piratenbolwerk.",
+      "coordinates": {
+        "latitude": 17.9360,
+        "longitude": -76.8370
+      }
+    },
+    {
+      "name": "De Schat van het Huis van Wittelsbach",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "Juwelen en artefacten van het voormalige Duitse koningshuis, deels gestolen tijdens WOII en vermist.",
+      "coordinates": {
+        "latitude": 48.1351,
+        "longitude": 11.5820
+      }
+    },
+    {
+      "name": "Het verloren schip van La Belle",
+      "type": "scheepswrak",
+      "status": "gevonden",
+      "description": "Een Frans ontdekkingsschip dat in 1686 zonk in de Matagorda Bay, Texas.",
+      "coordinates": {
+        "latitude": 28.5200,
+        "longitude": -96.5300
+      }
+    },
+    {
+      "name": "De Goudschat van de Confederatie",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "Goud dat toebehoorde aan de Confederatie en spoorloos verdween na de Amerikaanse Burgeroorlog.",
+      "coordinates": {
+        "latitude": 37.0000,
+        "longitude": -89.0000
+      }
+    },
+    {
+      "name": "De SS Islander",
+      "type": "scheepswrak/schat",
+      "status": "gevonden",
+      "description": "Schip dat zonk in 1901 voor de kust van Alaska, met een grote lading goud.",
+      "coordinates": {
+        "latitude": 58.2600,
+        "longitude": -134.7800
+      }
+    },
+    {
+      "name": "De verloren stad Z",
+      "type": "verloren stad",
+      "status": "gespeculeerd",
+      "description": "Een mythische oude stad in het Amazone regenwoud van Brazilië, gezocht door ontdekkingsreizigers.",
+      "coordinates": {
+        "latitude": -7.5000,
+        "longitude": -55.0000
+      }
+    },
+    {
+      "name": "De Schat van de Roemeense Bank",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "Goudreserves van de Roemeense Nationale Bank, die tijdens WOI naar Rusland werden gestuurd en nooit zijn teruggekeerd.",
+      "coordinates": {
+        "latitude": 45.9432,
+        "longitude": 24.9668
+      }
+    },
+    {
+      "name": "P-47 Thunderbolt Wrakken (Nieuw-Guinea)",
+      "type": "vliegtuigwrakken",
+      "status": "gevonden",
+      "description": "Vliegtuigwrakken uit WOII, bekend als 'Swamp Ghost', gedeeltelijk geborgen uit de moerassen.",
+      "coordinates": {
+        "latitude": -7.0000,
+        "longitude": 145.0000
+      }
+    },
+    {
+      "name": "De Schat van het Huis Habsburg",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "Verloren juwelen en kunstvoorwerpen van de Habsburgse dynastie, mogelijk verspreid of verborgen.",
+      "coordinates": {
+        "latitude": 48.2082,
+        "longitude": 16.3738
+      }
+    },
+    {
+      "name": "De Zinken Scheepsvloot van de Golf van Tonkin",
+      "type": "scheepswrakken",
+      "status": "gevonden",
+      "description": "Diverse scheepswrakken, waaronder oorlogsschepen en vrachtschepen uit verschillende conflicten.",
+      "coordinates": {
+        "latitude": 20.0000,
+        "longitude": 107.0000
+      }
+    },
+    {
+      "name": "Het IJzeren Kruis Cache",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "Een vermeende begraven schat van Duitse IJzeren Kruizen en andere memorabilia uit WOII.",
+      "coordinates": {
+        "latitude": 52.5200,
+        "longitude": 13.4050
+      }
+    },
+    {
+      "name": "De verloren goudmijn van Montezuma",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "Een legendarische goudmijn van de Azteken die door Montezuma's volk werd verborgen voor de Spanjaarden.",
+      "coordinates": {
+        "latitude": 19.4326,
+        "longitude": -99.1332
+      }
+    },
+    {
+      "name": "De SS Egypt",
+      "type": "scheepswrak/schat",
+      "status": "gevonden",
+      "description": "Brits passagiersschip dat zonk in 1922 met een aanzienlijke lading goud en zilver aan boord.",
+      "coordinates": {
+        "latitude": 48.5100,
+        "longitude": -5.3000
+      }
+    },
+    {
+      "name": "Het Zwarte Vloot Wrak (Japan)",
+      "type": "scheepswrakken",
+      "status": "gevonden",
+      "description": "Overblijfselen van de vloot van Kublai Khan die in de 13e eeuw door een tyfoon zonk tijdens een invasiepoging in Japan.",
+      "coordinates": {
+        "latitude": 33.5898,
+        "longitude": 130.4017
+      }
+    },
+    {
+      "name": "De Schat van de Templiers",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "De legendarische schat van de Tempeliers, die zou zijn verborgen voordat de Orde werd opgeheven.",
+      "coordinates": {
+        "latitude": 48.8566,
+        "longitude": 2.3522
+      }
+    },
+    {
+      "name": "De verloren stad Aztlán",
+      "type": "verloren stad",
+      "status": "gespeculeerd",
+      "description": "De mythische voorouderlijke thuisland van de Azteken, waarvan de locatie onbekend is.",
+      "coordinates": {
+        "latitude": 26.0000,
+        "longitude": -109.0000
+      }
+    },
+    {
+      "name": "Het wrak van de Grosvenor",
+      "type": "scheepswrak/schat",
+      "status": "gevonden",
+      "description": "Een Brits Oost-Indiëvaarder die in 1782 voor de kust van Zuid-Afrika schipbreuk leed, naar verluidt met goud en edelstenen.",
+      "coordinates": {
+        "latitude": -31.3700,
+        "longitude": 29.8900
+      }
+    },
+    {
+      "name": "De Schat van Fátima",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "Een vermeende schat die verborgen zou zijn in de omgeving van Fátima, Portugal, na de Wonderen van Fátima.",
+      "coordinates": {
+        "latitude": 39.6166,
+        "longitude": -8.6517
+      }
+    },
+    {
+      "name": "De verloren zilvermijnen van de Spanjaarden (VS)",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "Diverse legendarische zilvermijnen in de Amerikaanse Southwest, achtergelaten door Spaanse kolonisten.",
+      "coordinates": {
+        "latitude": 34.0000,
+        "longitude": -112.0000
+      }
+    },
+    {
+      "name": "De USS Arizona Memorial",
+      "type": "scheepswrak",
+      "status": "gevonden",
+      "description": "Het gezonken slagschip in Pearl Harbor, Hawaï, een gedenkteken voor de aanval op 7 december 1941.",
+      "coordinates": {
+        "latitude": 21.3650,
+        "longitude": -157.9500
+      }
+    },
+    {
+      "name": "Het goud van Napoleon",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "Vermeende goudschat van Napoleon die tijdens zijn terugtrekking uit Rusland is verborgen of verloren gegaan.",
+      "coordinates": {
+        "latitude": 55.7558,
+        "longitude": 37.6173
+      }
+    },
+    {
+      "name": "De verloren stad van Iram van de Zuilen (Ubar)",
+      "type": "verloren stad",
+      "status": "gevonden",
+      "description": "Een oude verloren stad in het zand van Oman, beschreven in legendes en gevonden met satellietbeelden.",
+      "coordinates": {
+        "latitude": 18.2325,
+        "longitude": 53.6492
+      }
+    },
+    {
+      "name": "De RMS Laconia",
+      "type": "scheepswrak",
+      "status": "gevonden",
+      "description": "Brits passagiersschip dat in WOII zonk, bekend van het 'Laconia-incident'.",
+      "coordinates": {
+        "latitude": -5.5000,
+        "longitude": -9.0000
+      }
+    },
+    {
+      "name": "Het Zilver van Atocha",
+      "type": "scheepswrak/schat",
+      "status": "gevonden",
+      "description": "Spaans galjoen gezonken in 1622, bekend om de enorme hoeveelheid zilver en edelstenen die is geborgen.",
+      "coordinates": {
+        "latitude": 24.5500,
+        "longitude": -82.0000
+      }
+    },
+    {
+      "name": "De Verborgen Schat van de Kelly Gang",
+      "type": "schat",
+      "status": "gespeculeerd",
+      "description": "Een vermeende schat verborgen door de beruchte Australische bushranger Ned Kelly en zijn bende.",
+      "coordinates": {
+        "latitude": -36.5000,
+        "longitude": 145.0000
+      }
+    },
+    {
+      "name": "De verloren stad Thinis",
+      "type": "verloren stad",
+      "status": "gespeculeerd",
+      "description": "Een van de vroegste hoofdsteden van het oude Egypte, waarvan de exacte locatie nog onbekend is.",
+      "coordinates": {
+        "latitude": 26.5000,
+        "longitude": 31.8000
+      }
+    }
+  ]
+}
